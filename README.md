@@ -1,5 +1,5 @@
 # NestJS Task (todo) API example
-In this repo, you can see an api builded with NestJS, TypeORM and MySQL DB. To run it, follow those instructions.
+In this repo, you can see an api built with NestJS, TypeORM and MySQL DB. To run it, follow those instructions.
 
 ## How to run
 1) Create a docker container of mysql:
